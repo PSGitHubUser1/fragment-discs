@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fragment_discs:disc_chrip"
+    },
+    "1": {
+      "item": "fragment_discs:disc_chrip"
+    },
+    "2": {
+      "item": "fragment_discs:disc_chrip"
+    },
+    "3": {
+      "item": "fragment_discs:disc_chrip"
+    },
+    "4": {
+      "item": "fragment_discs:disc_chrip"
+    },
+    "5": {
+      "item": "fragment_discs:disc_chrip"
+    },
+    "6": {
+      "item": "fragment_discs:disc_chrip"
+    },
+    "7": {
+      "item": "fragment_discs:disc_chrip"
+    },
+    "8": {
+      "item": "fragment_discs:disc_chrip"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_chirp",
+    "count": 1
+  }
+}

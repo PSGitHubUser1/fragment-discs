@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fragment_discs:disc_mellohi"
+    },
+    "1": {
+      "item": "fragment_discs:disc_mellohi"
+    },
+    "2": {
+      "item": "fragment_discs:disc_mellohi"
+    },
+    "3": {
+      "item": "fragment_discs:disc_mellohi"
+    },
+    "4": {
+      "item": "fragment_discs:disc_mellohi"
+    },
+    "5": {
+      "item": "fragment_discs:disc_mellohi"
+    },
+    "6": {
+      "item": "fragment_discs:disc_mellohi"
+    },
+    "7": {
+      "item": "fragment_discs:disc_mellohi"
+    },
+    "8": {
+      "item": "fragment_discs:disc_mellohi"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_mellohi",
+    "count": 1
+  }
+}

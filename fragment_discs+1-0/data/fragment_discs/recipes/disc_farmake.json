@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fragment_discs:disc_far"
+    },
+    "1": {
+      "item": "fragment_discs:disc_far"
+    },
+    "2": {
+      "item": "fragment_discs:disc_far"
+    },
+    "3": {
+      "item": "fragment_discs:disc_far"
+    },
+    "4": {
+      "item": "fragment_discs:disc_far"
+    },
+    "5": {
+      "item": "fragment_discs:disc_far"
+    },
+    "6": {
+      "item": "fragment_discs:disc_far"
+    },
+    "7": {
+      "item": "fragment_discs:disc_far"
+    },
+    "8": {
+      "item": "fragment_discs:disc_far"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_far",
+    "count": 1
+  }
+}

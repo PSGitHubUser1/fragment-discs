@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fragment_discs:disc_pigstep"
+    },
+    "1": {
+      "item": "fragment_discs:disc_pigstep"
+    },
+    "2": {
+      "item": "fragment_discs:disc_pigstep"
+    },
+    "3": {
+      "item": "fragment_discs:disc_pigstep"
+    },
+    "4": {
+      "item": "fragment_discs:disc_pigstep"
+    },
+    "5": {
+      "item": "fragment_discs:disc_pigstep"
+    },
+    "6": {
+      "item": "fragment_discs:disc_pigstep"
+    },
+    "7": {
+      "item": "fragment_discs:disc_pigstep"
+    },
+    "8": {
+      "item": "fragment_discs:disc_pigstep"
+    }
+  },
+  "result": {
+    "item": "minecraft:music_disc_pigstep",
+    "count": 1
+  }
+}
